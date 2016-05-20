@@ -1,0 +1,10 @@
+{
+  "name": "magic.css.scss",
+  "version": "1.0.0",
+  "description": "SCSS version of magic css",
+  "author": "Tobias Feld",
+  "repository": { 
+    "type" : "git", 
+    "url" : "https://github.com/monkey-tobi/magic.css.scss.git"
+  }
+}
