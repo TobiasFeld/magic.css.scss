@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "SCSS version of magic css",
   "author": "Tobias Feld",
+  "license": "MIT",
   "repository": { 
     "type" : "git", 
     "url" : "https://github.com/monkey-tobi/magic.css.scss.git"
